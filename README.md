@@ -26,4 +26,4 @@ options:
   -d {minute,hour,day}           Time unit. Can be minute, hour or day (default: minute)
 ```
 # Examples
-![](https://i.imgur.com/a/5p8trji)
+![](https://imgur.com/a/5p8trji)
