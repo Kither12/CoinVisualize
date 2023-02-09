@@ -2,7 +2,7 @@
  Coin chart for the terminal as command line ultil<br>
 
 ### Requirements
--Python3
+- Python3
 
 ### Usage
  ```bash
