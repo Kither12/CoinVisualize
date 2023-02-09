@@ -12,7 +12,7 @@ def showCoinList():
 def argv():
 
 
-    parser = argparse.ArgumentParser(description='A test program.')
+    parser = argparse.ArgumentParser()
     parser.add_argument("-f", "--fsym",nargs="+", help = "The crypto currency symbol (default: BTC)", default = "BTC")
     parser.add_argument("-d", "--histo", help = "Time unit. Can be minute, hour or day (default: minute)", default = "minute", choices=["minute", "hour", "day"])
   
