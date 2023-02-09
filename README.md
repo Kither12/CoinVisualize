@@ -25,3 +25,5 @@ options:
   -f FSYM [FSYM ...]             The crypto currency symbol (default: BTC)
   -d {minute,hour,day}           Time unit. Can be minute, hour or day (default: minute)
 ```
+# Examples
+![](https://imgur.com/a/5p8trji)
