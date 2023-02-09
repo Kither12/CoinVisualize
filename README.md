@@ -3,6 +3,8 @@
 
 ### Usage
  ```bash
+ # install
 pip install requirement.txt
 
+# run default
 
